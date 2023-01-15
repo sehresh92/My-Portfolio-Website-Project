@@ -6,8 +6,23 @@ It have five main sections. First is a header or home section. When you open thi
 
 You can download my Portfolio-Website project from the following link:
 
-
+https://github.com/sehresh92/My-Portfolio-Website-Project/tree/main/My%20Portfolio%20Website%20Project 
 
 7 Pictures Description of My-Portfolio-Website-Project:
 
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/1.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/2.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/3.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/5.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/6.jpg
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/7.jpg
 
