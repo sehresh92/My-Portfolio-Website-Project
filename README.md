@@ -62,6 +62,6 @@ https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%2
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/8res.jpg
 
-
+Thank you for watching My-Portfolio-Website-Project in HTML5, CSS3 and Javascript :-)
 
 
