@@ -28,3 +28,19 @@ https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20
 
 3 Pictures Description of Contact Me "form" Procedure:
 
+First submit the form:
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Contact%20Me%20Form%20Pics/9.jpg
+
+Then you will receive a message:
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Contact%20Me%20Form%20Pics/10.jpg
+
+Then the form data will update in my google sheet.
+
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Contact%20Me%20Form%20Pics/11.jpg
+
+
+
+
+
