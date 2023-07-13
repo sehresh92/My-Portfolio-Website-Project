@@ -2,7 +2,7 @@
 
 Visit My-Portfolio-Website on the following link:
 
-https://qptnmjafveb7zyziegzohg.on.drv.tw/www.sehreshmehboobportfolio.com/ 
+https://qptnmjafveb7zyziegzohg.on.drv.tw/sehreshmehboobportfolio.com/ 
 
 I have completed various HTML5, CSS3 and Javascript projects. One of my favorite HTML5, CSS3 and Javascript project is "My Portfolio Website". It is a Portfolio Website Using HTML5, CSS3 and Javascript. It is a Complete Responsive Website Design.
 
