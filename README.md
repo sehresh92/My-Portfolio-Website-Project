@@ -48,9 +48,9 @@ https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Contact%20Me
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/1res.jpg 
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/2res.jpg
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/2res.jpg 
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/3res.jpg
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/3res.jpg 
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Responsive%20Website%20Design%20Pics/4res.jpg
 
