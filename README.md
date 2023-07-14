@@ -14,13 +14,13 @@ https://github.com/sehresh92/My-Portfolio-Website-Project/tree/main/My%20Portfol
 
 7 Pictures Description of My-Portfolio-Website-Project:
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/1.jpg
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/1.jpg 
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/2.jpg
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/2.jpg 
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/3.jpg
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg
+https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg 
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg
 
