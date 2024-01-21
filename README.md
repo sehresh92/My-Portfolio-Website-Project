@@ -10,7 +10,7 @@ It have five main sections. First is a header or home section. When you open thi
 
 You can download my Portfolio-Website project from the following link:
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/tree/main/My%20Portfolio%20Website%20Project 
+https://github.com/sehresh92/My-Portfolio-Website-Project/tree/main/my%20portfolio%20website%20project/sehportfolio.com
 
 7 Pictures Description of My-Portfolio-Website-Project:
 
