@@ -19,8 +19,6 @@ https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg 
 
-https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/4.jpg
-
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/5.jpg
 
 https://github.com/sehresh92/My-Portfolio-Website-Project/blob/main/Pics%20of%20My-Portfolio-Website-Project/6.jpg
